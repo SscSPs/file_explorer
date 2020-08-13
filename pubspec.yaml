@@ -21,6 +21,7 @@ environment:
   sdk: ">=2.7.0 <3.0.0"
 
 dependencies:
+  permission_handler: ^5.0.1+1
   ms_material_color: ^0.1.0
   flutter:
     sdk: flutter

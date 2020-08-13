@@ -1,3 +1,3 @@
-class Data{
-  String startPath = "/sdcard";
+class Data {
+  static final String startPath = "/sdcard";
 }
